@@ -2,7 +2,7 @@
     <!-- <div class="container">
 
     </div> -->
-    <div class="container-fluid navbar--content sticky-top">
+    <div class="container-fluid navbar--content sticky-top" >
     <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light">
   <div class="container-fluid">
     <a href="Home"><img src="assets/img/logobk.png" alt="" class ="logo--theme"></a>

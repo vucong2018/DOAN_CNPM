@@ -1,4 +1,4 @@
-
+<div class="container-fluid blocks--home" style="position: relative;">
 <div id="back-btn" class="header-btn" style="display: inline-block">
     <i style ="color: red;" class="ti-back-left"></i>
     </div>
@@ -328,7 +328,7 @@
             </div>
         </div>  
     </div>
-
+</div>
     <div class="payment container hide"></div>
 
     <!-- <div class="footer container-fluid"> -->
