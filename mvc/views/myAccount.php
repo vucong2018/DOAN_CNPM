@@ -68,11 +68,6 @@ if (!$_SESSION['username']){
                     <button value="REGISTER" type="submit" class="btn btn-dark"><span class="fw-bold">UPDATE INFO</span></button>
                 </div>
                 <p></p>
-                <div class="text-center mb-5" id="forgot_pass">
-                    <p>By creating your account, you agree to our 
-                        <a href="">Terms and Conditions & Privacy Policy </a>                   
-                    </p>
-                </div>
             </form>
             </div>
         </div>
