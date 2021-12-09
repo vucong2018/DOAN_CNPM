@@ -231,7 +231,14 @@
                         </div>
                         <div class="book-name">Giáo trình Giải tích 1</div>
                         <div class="book-price">65000đ</div>
-                        <div class="book-description hide"></div>
+                        <div class="book-description hide">
+                            <p>Mã sản phẩm: MATH0001</p>
+                            <div class="row">
+                                <p class="col-6">Nhà cung cấp: Trường ĐH Bách Khoa TPHCM</p>
+                                <p class="col-6">Tác giả: Nguyễn Đình Huy (Chủ biên) - Lê Xuân Đại - Nguyễn Bá Thi - Trần Ngọc Diễm - Ngô Thu Lương - Đặng Văn Vinh - Nguyễn Hữu Hiệp - Hoàng Hải Hà - Phùng Trọng Thực - Đậu Thế Phiệt - Nguyễn Thị Xuân Anh</p>
+                            </div>
+                            <p>Nhà xuất bản: NXB Đại học Quốc gia TPHCM</p>    
+                        </div>
                     </div>
                 </div>
                 <div class="book col col-6 col-md-4 col-lg-3 col-xl-2">
@@ -241,7 +248,14 @@
                         </div>
                         <div class="book-name">Giáo trình Giải tích 2</div>
                         <div class="book-price">60000đ</div>
-                        <div class="book-description hide"></div>
+                        <div class="book-description hide">
+                            <p>Mã sản phẩm:MATH0002 </p>
+                            <div class="row">
+                                <p class="col-6">Nhà cung cấp: Trường ĐH Bách Khoa TPHCM</p>
+                                <p class="col-6">Tác giả: Nguyễn Đình Huy (Chủ biên) - Lê Xuân Đại - Ngô Thu Lương - Nguyễn Bá Thi - Trần Ngọc Diễm - Đậu Thế Phiệt</p>
+                            </div>
+                            <p>Nhà xuất bản: NXB Đại học Quốc gia TPHCM</p>    
+                        </div>
                     </div>
                 </div>
                 <div class="book col col-6 col-md-4 col-lg-3 col-xl-2">
@@ -251,7 +265,14 @@
                         </div>
                         <div class="book-name">Giáo trình Hóa Đại cương</div>
                         <div class="book-price">78000đ</div>
-                        <div class="book-description hide"></div>
+                        <div class="book-description hide">
+                            <p>Mã sản phẩm: CHEM0001</p>
+                            <div class="row">
+                                <p class="col-6">Nhà cung cấp: Trường ĐH Bách Khoa TPHCM</p>
+                                <p class="col-6">Tác giả: Nguyễn Đình Soa</p>
+                            </div>
+                            <p>Nhà xuất bản: NXB Đại học Quốc gia TPHCM</p>    
+                        </div>
                     </div>
                 </div>
                 <div class="book col col-6 col-md-4 col-lg-3 col-xl-2">
@@ -261,7 +282,14 @@
                         </div>
                         <div class="book-name">Giáo trình Đại số tuyến tính</div>
                         <div class="book-price">55000đ</div>
-                        <div class="book-description hide"></div>
+                        <div class="book-description hide">
+                            <p>Mã sản phẩm: MATH0005</p>
+                            <div class="row">
+                                <p class="col-6">Nhà cung cấp: Trường ĐH Bách Khoa TPHCM</p>
+                                <p class="col-6">Tác giả: Đặng Văn Vinh</p>
+                            </div>
+                            <p>Nhà xuất bản: NXB Đại học Quốc gia TPHCM</p>    
+                        </div>
                     </div>
                 </div>
                 <div class="book col col-6 col-md-4 col-lg-3 col-xl-2">
@@ -271,7 +299,14 @@
                         </div>
                         <div class="book-name">Nhập môn Kỹ thuật Hóa học</div>
                         <div class="book-price">120000đ</div>
-                        <div class="book-description hide"></div>
+                        <div class="book-description hide">
+                            <p>Mã sản phẩm: CHEM0003</p>
+                            <div class="row">
+                                <p class="col-6">Nhà cung cấp: Trường ĐH Bách Khoa TPHCM</p>
+                                <p class="col-6">Tác giả: Nguyễn Hữu Hiếu</p>
+                            </div>
+                            <p>Nhà xuất bản: NXB Đại học Quốc gia TPHCM</p>    
+                        </div>
                     </div>
                 </div>
                 <div class="book col col-6 col-md-4 col-lg-3 col-xl-2">
@@ -281,7 +316,14 @@
                         </div>
                         <div class="book-name">Thí nghiệm Vật Lý đại cương A</div>
                         <div class="book-price">39000đ</div>
-                        <div class="book-description hide"></div>
+                        <div class="book-description hide">
+                            <p>Mã sản phẩm: PHYS0001</p>
+                            <div class="row">
+                                <p class="col-6">Nhà cung cấp: Trường ĐH Bách Khoa TPHCM</p>
+                                <p class="col-6">Tác giả: Nguyễn Minh Châu (Chủ biên) - Nguyễn Dương Hùng</p>
+                            </div>
+                            <p>Nhà xuất bản: NXB Đại học Quốc gia TPHCM</p>    
+                        </div>
                     </div>
                 </div>
             </div>
