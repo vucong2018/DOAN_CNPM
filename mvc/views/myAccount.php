@@ -58,9 +58,7 @@ if (!$_SESSION['username']){
                 <label class="form-label" for="password" id="password">Password</label>
                 <input name="pass" class="form-control" type="password" id="password_text">
 
-                <br>
-                <label class="form-label" for="re-password" id="re-password">Re-password</label>
-                <input name="repass" class="form-control" type="password" id="re-password_text">
+               
                 
                 <br>
 
